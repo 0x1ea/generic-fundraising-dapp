@@ -1,5 +1,5 @@
 # Fundraising App
-Frontend React App for Generic Fundraising App.
+Frontend React Interface for Generic Fundraising App.
 
 ## Development
 To setup the development environment first clone the repo:
