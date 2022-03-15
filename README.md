@@ -1,5 +1,5 @@
 # Fundraising App
-Frontend React Interface for Generic Fundraising App.
+React Interface for [Generic Fundraising Dapp](https://vibrant-brahmagupta-26c23a.netlify.app/) on Rinkeby.
 
 ## Development
 To setup the development environment first clone the repo:
